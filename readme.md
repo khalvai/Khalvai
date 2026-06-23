@@ -2,7 +2,7 @@
 
 👋🏻 Hello, my name is Khalvai Ozbek.
 
-📍 Based in 🇩🇪 Kaiserslauter.
+📍 Based in 🇩🇪 Kaiserslautern.
 
 👨🏻‍💻 Senior Software Engineer with over 5 years of experience. Currently at intelika.ai.
 
