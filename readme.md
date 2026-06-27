@@ -4,7 +4,7 @@
 
 📍 Based in 🇩🇪 Kaiserslautern.
 
-👨🏻‍💻 Senior Software Engineer with over 5 years of experience. Currently at intelika.ai.
+👨🏻‍💻 Senior Software Engineer with +5 years of experience.
 
 ❤️ Passionate about about systems and elements (services, modules) can work together for a certain goal.
 
